@@ -5,6 +5,10 @@
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <PackageId>tetofoservicefileserializer</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>PavelBobek</Authors>
+    <Company>tetofo</Company>
   </PropertyGroup>
 
 </Project>
